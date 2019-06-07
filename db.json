@@ -1,0 +1,14 @@
+{
+    "config": [
+        {
+            "name": "Bed",
+            "id": 0,
+            "pin": 2
+        },
+        {
+            "name": "Desk",
+            "id": 1,
+            "pin": 3
+        }
+    ]
+}
