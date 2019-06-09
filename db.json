@@ -1,17 +1,21 @@
 {
-    "config": 
-        {
-            "pins": [
-                {
-                    "name": "Bed",
-                    "id": 0,
-                    "pin": 2
-                },
-                {
-                    "name": "Desk",
-                    "id": 1,
-                    "pin": 3
-                }
-            ]
-        }
+    "config": {
+        "pins": [
+            {
+                "name": "Bed",
+                "id": 0,
+                "pin": 2
+            },
+            {
+                "name": "Desk",
+                "id": 1,
+                "pin": 3
+            },
+            {
+                "name": "Room",
+                "id": 2,
+                "pin": 4
+            }
+        ]
+    }
 }
