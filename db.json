@@ -15,6 +15,26 @@
                 "name": "Room",
                 "id": 2,
                 "pin": 4
+            },
+            {
+                "name": "Room1",
+                "id": 3,
+                "pin": 5
+            },
+            {
+                "name": "Room2",
+                "id": 4,
+                "pin": 6
+            },
+            {
+                "name": "Room3",
+                "id": 5,
+                "pin": 7
+            },
+            {
+                "name": "Room4",
+                "id": 6,
+                "pin": 8
             }
         ]
     }
