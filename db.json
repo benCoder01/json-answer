@@ -35,6 +35,11 @@
                 "name": "Room4",
                 "id": 6,
                 "pin": 8
+            },
+            {
+                "name": "Room5",
+                "id": 7,
+                "pin": 9
             }
         ]
     }
